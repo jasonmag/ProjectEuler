@@ -1,4 +1,7 @@
 # ProjectEuler
-Project Euler, practice coding.
+https://projecteuler.net/
 
-u/ jasonmaglangit
+Best place to practice programming skills or learn new language. 
+
+
+-- jasonmag
