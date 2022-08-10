@@ -1,6 +1,6 @@
-#Ruby Challanges 
+# Ruby Challanges 
 
-#Using Docker
+# Using Docker
 
 - Build docker with tag
 	- ```docker build -t <input_tag_name> .```
