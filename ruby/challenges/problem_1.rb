@@ -5,3 +5,11 @@
 # Ans: 233168
 ##
 
+# ARGV input integer
+max_num = ARGV[0].to_i
+
+total = (1...max_num).select {|i| i % 3 == 0 || i % 5 == 0 }
+
+# display
+puts total.sum
+
